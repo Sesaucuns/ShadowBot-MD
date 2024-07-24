@@ -13,18 +13,18 @@ global.botNumberCode = "" //Ejemplo: +59309090909
 global.phoneNumber = ""
 
  global.owner = [ 
- ["584125778026", "Owner", true], 
- ["5492266613038"],
- ["5217779091180"],
- ["50375961083"],
- ["50246028932"]
+ ["5493491620687", "Owner", true], 
+ ["5493735569492"],
+ ["50689656596"],
+ ["5493735483307"],
+ ["50670693036"]
  ] 
 
 global.mods = []
 global.premium = []  
 global.blockList = []  
 
- global.botname = "SHADOW-乃ㄖㄒ-爪ᗪ+" 
+ global.botname = "Sticker moon" 
  global.wm = 'SHADOW-🅑︎🅞︎🅣︎+' 
  global.vs = '1.0.0' 
  global.place = 'America/Bogota' // Aquí puede encontrar su ubicación https://momentjs.com/timezone/ 
