@@ -28,7 +28,7 @@ return `*╭━━❍SHADOW-𝐁𝐎𝐓-𝐌𝐃❍━━╮*
  *┃╭━━━━━━━━━━━━━━━━╾•* 
  *┃┃  ❍ ${ucapan()} ❍* 
  *┃┣━━━━━━━━━━━━━━━━╾•* 
- *┃┃ ⋄ NUMERO DEL CREADOR: wa.me/528442286089 (𝐍𝐎 𝐁𝐎𝐓)* 
+ *┃┃ ⋄ NUMERO DEL CREADOR: wa.me/5493735569492 (𝐍𝐎 𝐁𝐎𝐓)* 
  *┃┃ ⋄ VERSION » ${vs}* 
  *┃┃ ⋄ FECHA » ${date} ${time}* 
  *┃┃ ⋄ TIEMPO ACTIVO » ${runtime(process.uptime())}*
